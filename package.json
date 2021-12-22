@@ -1,0 +1,22 @@
+{
+  "name": "vue2-template-pc",
+  "version": "1.0.0",
+  "description": "pc端脚手架模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahYue/vue2-template-pc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahYue/vue2-template-pc/issues"
+  },
+  "homepage": "https://github.com/sarahYue/vue2-template-pc#readme",
+  "dependencies": {
+    "element-ui": "^2.15.6"
+  }
+}
